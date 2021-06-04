@@ -1,9 +1,9 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
-  ClientHeight = 299
-  ClientWidth = 635
+  Caption = 'Database Viewer'
+  ClientHeight = 528
+  ClientWidth = 884
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -13,22 +13,28 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object StatusBar1: TStatusBar
-    Left = 0
-    Top = 280
-    Width = 635
-    Height = 19
-    Panels = <>
-    ExplicitLeft = 328
-    ExplicitTop = 160
-    ExplicitWidth = 0
+  object Label1: TLabel
+    Left = 568
+    Top = 16
+    Width = 161
+    Height = 17
+    Caption = #1060#1072#1084' '#1057#1091#1072#1085' '#1058#1093#1080#1077#1085'        '#1056#1048'-561220'
+    OnClick = Label1Click
   end
-  object ToolBar1: TToolBar
-    Left = 0
-    Top = 0
-    Width = 635
-    Height = 217
-    Caption = 'ToolBar1'
+  object Button1: TButton
+    Left = 16
+    Top = 8
+    Width = 153
+    Height = 25
+    Caption = 'Delete Entry'
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 208
+    Top = 8
+    Width = 153
+    Height = 25
+    Caption = 'Delete Table'
     TabOrder = 1
   end
 end

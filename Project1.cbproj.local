@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2021/06/04 14:07:21.887,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/06/04 14:07:21.988,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/04 14:07:51.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2021/06/04 14:07:51.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.dfm=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/06/04 14:07:51.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.cpp=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/04 14:07:55.520,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1PCH1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/06/04 14:07:58.415,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1.cbproj=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2021/06/04 14:07:21.000.988,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/04 14:07:21.000.887,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.dfm=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.cpp=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/04 14:07:55.000.520,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1PCH1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/04 14:07:58.000.415,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1.cbproj=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
