@@ -1,12 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2021/06/04 14:07:21.000.988,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/04 14:07:21.000.887,=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.dfm=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/06/04 14:07:51.000.180,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Unit1.cpp=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/04 14:07:55.000.520,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1PCH1.h=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/06/04 14:07:58.000.415,C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\laba2\Project1.cbproj=C:\Users\thien\OneDrive - УрФУ\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.793,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.932,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.704,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.744,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.468,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Actions.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.056,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.781,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTreesR.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.582,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.HeaderPopup.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.449,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.AccessibilityFactory.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.503,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Classes.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.551,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Export.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.897,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite3ext.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.576,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Win32\Debug\sqlite3.def</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.442,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.AccessibilityFactory.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.614,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.806,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Win32\Debug\sqlite3.dll</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.690,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Utils.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.591,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.HeaderPopup.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.802,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTreesReg.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.861,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite3.c</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.943,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.414,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Accessibility.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.759,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTreesD.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.340,=C:\Users\Konstantin\Documents\Embarcadero\Studio\sql_proj\VirtualTreeView\Changes.txt</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.624,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.723,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.WorkerThread.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.476,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Actions.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.713,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.WorkerThread.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.532,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.ClipBoard.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.476,C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.496,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Classes.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.523,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.ClipBoard.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.884,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite3.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.348,=C:\Users\Konstantin\Documents\Embarcadero\Studio\sql_proj\VirtualTreeView\INSTALL.txt</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.924,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.867,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Utils.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.422,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Accessibility.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.645,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.StyleHooks.hpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.655,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.StyleHooks.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.562,=C:\Users\Konstantin\Documents\Embarcadero\Studio\Projects\sqlite_project\Win32\VirtualTreeView\Source\VirtualTrees.Export.pas</Transaction>
   </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
